@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6837C57D-574C-41F3-9BBE-9F375BC8A552</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LCEasyParallax</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1362244D6B08DAFE0422E7CB89884461317AB9A4</key>
+		<string>https://github.com/chen570075003/LCEasyParallax.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LCEasyParallax.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1362244D6B08DAFE0422E7CB89884461317AB9A4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chen570075003/LCEasyParallax.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1362244D6B08DAFE0422E7CB89884461317AB9A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1362244D6B08DAFE0422E7CB89884461317AB9A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LCEasyParallax</string>
+		</dict>
+	</array>
+</dict>
+</plist>
